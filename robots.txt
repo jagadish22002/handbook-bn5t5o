@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jagadish22002.github.io/handbook-bn5t5o/sitemap.xml
